@@ -1,6 +1,6 @@
-# python-template-repository
+# polars
 
-本リポジトリはPython 環境のテンプレートリポジトリです。
+polars のexample リポジトリです。
 
 ## リポジトリ構成
 
@@ -33,13 +33,13 @@
 
 ## 環境構築
 
-- Dockderfileがあるホスト側のフォルダへ移動（例：Desktop/python-template-repository）
+- Dockderfileがあるホスト側のフォルダへ移動（例：Desktop/polars）
 
 ```
-cd Desktop/python-template-repository
+cd Desktop/polars
 ```
 
-- Dockerによる環境構築（フォルダをマウント：Desktop/python-template-repository）
+- Dockerによる環境構築（フォルダをマウント：Desktop/polars）
 
 ```
 docker-compose up --build
